@@ -1,5 +1,5 @@
 # WebDev-projects
 Find some of my simple web development projects here
-1. Calculator
-2. Landing page
-3. Registration form
+1. A fully functional calculator
+2. A landing page for an antivirus software company
+3. A registration form with complete input validation
